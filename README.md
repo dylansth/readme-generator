@@ -1,40 +1,40 @@
 
-    # ReadME Generator
+# ReadME Generator
 
-    ## Description
+## Description
 
-    A ReadME Generator for your projects.
+A ReadME Generator for your projects.
 
-    ## Table of Contents
+## Table of Contents
 
-    1. [Installation](##-installation)
-    2. [Usage](##-usage)
-    3. [Contribution Guidelines](##-contribution-guidelines)
-    4. [Test Instructions](##-test-instructions)
-    5. [License](##-license)
-    6. [Questions](##-questions)
+1. [Installation](##-installation)
+2. [Usage](##-usage)
+3. [Contribution Guidelines](##-contribution-guidelines)
+4. [Test Instructions](##-test-instructions)
+5. [License](##-license)
+6. [Questions](##-questions)
 
-    ## Installation
+## Installation
 
-    Use npm install to install the dependant libraries.
+Use npm install to install the dependant libraries.
 
-    ## Usage
+## Usage
 
-    Use node to run index.js, then input your data as prompted.
+Use node to run index.js, then input your data as prompted.
 
-    ## Contribution Guidelines
+## Contribution Guidelines
 
-    Open for contribution
+Open for contribution
 
-    ## Test Instructions
+## Test Instructions
 
-    Use the command node index.js to run the application.
+Use the command node index.js to run the application.
 
-    ## License
+ ## License
 
-    This application is covered under the MIT License.
+This application is covered under the MIT License.
 
-    ## Questions
+## Questions
 
-    GitHub: N-A
-    Email: N-A
+GitHub: N-A
+Email: N-A
