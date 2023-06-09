@@ -1,6 +1,10 @@
 
 # ReadME Generator
 
+Example README: https://drive.google.com/file/d/1eqy_fghU8elLcV6wRCqqpmICCRZo0jFk/view?usp=sharing
+
+Example Video: https://drive.google.com/file/d/1k_fXbXZzVodivvogFfLixLz0o2kiNhGv/view
+
 ## Description
 
 A ReadME Generator for your projects.
